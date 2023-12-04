@@ -47,8 +47,3 @@ I (6070) example: temperature read from DS18B20[1]: 22.81C
 Example:
 
 ![зображення](https://github.com/dania93/TemperatureMeasurementByDS18B20/assets/41265108/857962a4-3d46-4286-9139-4920b852a6e7)
-
-
-## Troubleshooting
-
-For any technical queries, please open an [issue](https://github.com/espressif/esp-idf/issues) on GitHub. We will get back to you soon.
