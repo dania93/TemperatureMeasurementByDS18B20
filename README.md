@@ -35,6 +35,7 @@ Connection :
 │                       GND├─────────────────────┴──────────────────────┘
 └──────────────────────────┘
 ```
+![зображення](https://github.com/dania93/TemperatureMeasurementByDS18B20/assets/41265108/0ce9e467-2ec5-48d7-9a55-c9e61592d6df)
 
 The GPIO number used in this example can be changed according to your board, by the macro `EXAMPLE_ONEWIRE_BUS_GPIO` defined in [onewire_example_main.c](main/onewire_example_main.c).
 
