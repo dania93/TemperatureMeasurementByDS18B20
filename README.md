@@ -1,4 +1,4 @@
-# Advanced RMT Transmit & Receive Example -- Simulate 1-Wire Bus
+# Temperature Measurement By DS18B20
 
 Connection :
 
